@@ -13,4 +13,4 @@ Todo o processo do versionamento tambem estará composto aqui neste arquivo.
 
 #5 Após o commit damos um git push para empurrar as informações para o repositório localizado no Github.
 
-Para o desenvolvimento do projeto estarei usando o VS Code como editor de código-fonte, html e css para front-end, PHP para back-end e o Mamp com servidor local - MySql e servidor HTTP - Apache.
+Para o desenvolvimento do projeto estarei usando o VS Code como editor de código-fonte, html e css para front-end, PHP para back-end, servidor local - MySql e servidor HTTP - Apache.
