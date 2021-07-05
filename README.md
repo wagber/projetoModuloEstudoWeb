@@ -3,6 +3,8 @@
 
 Todo o processo do versionamento tambem estará composto aqui neste arquivo.
 
+![homem letra](https://user-images.githubusercontent.com/60184700/124513083-58479180-ddb0-11eb-836c-3e1f61dd0557.gif)
+
 1º - Criamos o repositório no git chamado projetoModuloEstudoWeb;
 
 2º - Clonamos o repositório dentro de uma pasta de destino em máquina local;
