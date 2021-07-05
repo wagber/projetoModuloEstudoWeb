@@ -3,7 +3,7 @@
 
 Todo o processo do versionamento tambem estará composto aqui neste arquivo.
 
-![homem letra](https://user-images.githubusercontent.com/60184700/124513083-58479180-ddb0-11eb-836c-3e1f61dd0557.gif)
+![mam letra](https://user-images.githubusercontent.com/60184700/124516866-0e16de00-ddb9-11eb-8d9e-b4f3e9fa874a.gif)
 
 1º - Criamos o repositório no git chamado projetoModuloEstudoWeb;
 
